@@ -1,0 +1,20 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{CA5BFB0A-0EB5-4D43-AC14-217E7162B7A5}") = "FireSocks", "FireSocks.csproj", "{1883C9C9-068C-4D9C-86B5-7AEFC702F631}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1883C9C9-068C-4D9C-86B5-7AEFC702F631}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1883C9C9-068C-4D9C-86B5-7AEFC702F631}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1883C9C9-068C-4D9C-86B5-7AEFC702F631}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1883C9C9-068C-4D9C-86B5-7AEFC702F631}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
